@@ -1,0 +1,7 @@
+.TicTacToe {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid teal;
+  border-radius: 8px;
+}

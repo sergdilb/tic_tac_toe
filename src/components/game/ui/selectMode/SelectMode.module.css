@@ -1,0 +1,4 @@
+.SelectMode {
+  display: flex;
+  flex-direction: column;
+}
